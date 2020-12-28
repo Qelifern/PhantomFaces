@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "B#B",
+    "#X#",
+    "B#B"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ender_pearls"
+    },
+    "X": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "phantomfaces:block_phantom_booster",
+    "count": 3
+  }
+}

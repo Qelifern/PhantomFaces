@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RXR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:bucket"
+    },
+    "X": {
+      "item": "phantomfaces:phantom_itemface"
+    }
+  },
+  "result": {
+    "item": "phantomfaces:phantom_liquiface"
+  }
+}

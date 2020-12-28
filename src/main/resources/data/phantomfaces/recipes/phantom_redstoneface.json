@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RXR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "phantomfaces:phantom_itemface"
+    }
+  },
+  "result": {
+    "item": "phantomfaces:phantom_redstoneface"
+  }
+}
